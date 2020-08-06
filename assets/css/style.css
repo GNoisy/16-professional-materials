@@ -87,6 +87,7 @@ main {
     /* background-color: #ddeafc; */
 }
 .bio-about{
+    margin-top: 3rem;
     margin-bottom: 10px;
 }
 
@@ -94,5 +95,12 @@ main {
     margin-top: 0px;
     padding: 0 45px 45px 45px; 
 }
+
+hr {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 
